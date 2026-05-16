@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "dfdf This website is built with Quarto and published with GitHub Actions.\nYou can customize this page with your bio, project goals, and contact information."
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "About",
+    "section": "",
+    "text": "dfdf This website is built with Quarto and published with GitHub Actions.\nYou can customize this page with your bio, project goals, and contact information."
+  },
+  {
+    "objectID": "posts/2026-05-16-python-post/index.html",
+    "href": "posts/2026-05-16-python-post/index.html",
+    "title": "Python Notebook Post",
+    "section": "",
+    "text": "This notebook is part of the Patchmosaic Quarto website.\n\nimport pandas as pd\nfrom pathlib import Path\n\ndata_path = Path('data.csv')\ndf = pd.read_csv(data_path)\ndf\n\n\ndf.plot(x='category', y='value', kind='bar', legend=False, title='Values by Category')"
+  },
+  {
+    "objectID": "posts/2026-05-17-r-post/index.html",
+    "href": "posts/2026-05-17-r-post/index.html",
+    "title": "R Markdown Post",
+    "section": "",
+    "text": "This is a starter R Markdown post in your Quarto site."
+  },
+  {
+    "objectID": "posts/2026-05-17-r-post/index.html#summary",
+    "href": "posts/2026-05-17-r-post/index.html#summary",
+    "title": "R Markdown Post",
+    "section": "",
+    "text": "This is a starter R Markdown post in your Quarto site."
+  },
+  {
+    "objectID": "posts/2026-05-17-r-post/index.html#example-plot",
+    "href": "posts/2026-05-17-r-post/index.html#example-plot",
+    "title": "R Markdown Post",
+    "section": "Example plot",
+    "text": "Example plot\n\nplot(pressure)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to your Quarto website.\nThis starter site includes:\n\nA Jupyter Notebook post\nAn R Markdown post\nGitHub Actions publishing workflow\n\n\n\n\nPython Notebook Post\nR Markdown Post"
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Welcome",
+    "section": "",
+    "text": "Python Notebook Post\nR Markdown Post"
+  }
+]
