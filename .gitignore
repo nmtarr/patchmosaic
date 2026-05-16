@@ -1,0 +1,7 @@
+.DS_Store
+.quarto/
+_site/
+.ipynb_checkpoints/
+.Rproj.user/
+__pycache__/
+*.pyc

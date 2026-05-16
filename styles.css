@@ -1,0 +1,18 @@
+:root {
+  --pm-bg: #f7f5ef;
+  --pm-text: #1f2937;
+  --pm-accent: #b45309;
+}
+
+body {
+  background: radial-gradient(circle at 20% 0%, #fff9eb 0%, var(--pm-bg) 55%);
+  color: var(--pm-text);
+}
+
+a {
+  color: var(--pm-accent);
+}
+
+a:hover {
+  color: #7c2d12;
+}
