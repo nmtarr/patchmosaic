@@ -5,6 +5,7 @@ _site/
 .Rproj.user/
 __pycache__/
 *.pyc
+_freeze/
 
 /.quarto/
 **/*.quarto_ipynb
