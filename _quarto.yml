@@ -5,7 +5,7 @@ project:
     - CNAME
 
 website:
-  title: "Patchmosaic"
+  title: "Patch Mosaic"
   site-url: "https://patchmosaic.org"
   navbar:
     left:
