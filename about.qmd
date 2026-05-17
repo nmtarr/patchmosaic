@@ -1,9 +1,17 @@
 ---
 title: "About"
 ---
+# About
+This website features personal projects that utilize skills and knowledge that I gained from 25 years of involvement in research on wildlife ecology (mostly birds) and conservation biogeography. Currently, I'm interested in how public datasets can be tapped to answer basic questions about where species occur, as well as changes in landscapes and species distributions. 
 
-## About this site
-dfdf
-This website is built with Quarto and published with GitHub Actions.
+The results of spatial investigations are often sensitive to the level of analysis. Therefore, I carefully consider the spatial extents and resolutions of individual projects as they relate to relevance for human decision making. I am primarily focused on the area where I live (Carrboro, NC), but also explore questions at ecoregional, state, and national levels. 
 
-You can customize this page with your bio, project goals, and contact information.
+# Use of AI 
+As long as AI is affordable, I will likely use it for convenience and assistance with technical challenges. However, any writing or content on this website has crafted by me and represents my opinions, judgement, and assessments. 
+
+# Connect
+- [Website](https://nmtarr.wordpress.ncsu.edu/)
+- [Mastadon](https://birdon.social/@patchmosaic)
+- [GitHub](https://github.com/nmtarr)
+- [ORCID](https://orcid.org/0000-0003-2925-8948)
+- Email: <a href="javascript:void(0)" onclick="this.href='mailto:' + ['patchmosiac','icloud.com'].join('@')">Click to reveal email</a>

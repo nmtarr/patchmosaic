@@ -4,14 +4,6 @@ title: "Welcome"
 
 # Patchmosaic
 
-Welcome to your Quarto website.
-
-This starter site includes:
-
-- A Jupyter Notebook post
-- An R Markdown post
-- GitHub Actions publishing workflow
-
 ## Latest posts
 
 - [Python Notebook Post](posts/2026-05-16-python-post/index.ipynb)
