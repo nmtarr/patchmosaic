@@ -1,10 +1,8 @@
 ---
-title: "Welcome"
+title: "Home"
 ---
 
-# Patchmosaic
-
-## Latest posts
+# Latest posts
 
 - [Python Notebook Post](posts/2026-05-16-python-post/index.ipynb)
 - [R Markdown Post](posts/2026-05-17-r-post/index.Rmd)
